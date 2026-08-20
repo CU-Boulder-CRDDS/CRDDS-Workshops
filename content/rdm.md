@@ -2,7 +2,7 @@
 layout: default
 title: Fixing Your Files: Research Data Manangement
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 
 # Fixing Your Files: Research Data Manangement (2026)
