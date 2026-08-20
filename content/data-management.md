@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Data Management
+title: Fixing Your Files: Research Data Manangement
 has_children: false
-nav_order: 9
+nav_order: 1
 ---
 
-# Data Management
+# Fixing Your Files: Research Data Manangement (2026)
 
 ## Instructor
 
@@ -17,13 +17,13 @@ University of Colorado Boulder Libraries\
 
 ## Introduction
 
-This presentation introduces basic concepts, tools, and resources that will help you to store and manage your research data. 
+These slides introduces basic concepts, tools, and resources that will help you to store and manage your research data. 
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](slides/ResearchDataManagement-20260819.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](material/ResearchDataManagement.pdf).
 
-<iframe src="slides/ResearchDataManagement-20260819.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="material/ResearchDataManagement.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 
 ## Additional Resource
