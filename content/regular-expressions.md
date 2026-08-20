@@ -12,7 +12,7 @@ nav_order: 3
 Kevan A. Feshami\
 Graduate Assistant\
 Center for Research Data & Digital Scholarship\
-University of Colorado Boulder Libraries\
+University of Colorado Boulder Libraries
 
 ## Introduction
 
