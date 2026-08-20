@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fixing Your Files: Research Data Manangement
+title: Fixing Your Files - Research Data Manangement
 has_children: false
 nav_order: 2
 ---
