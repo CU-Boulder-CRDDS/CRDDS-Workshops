@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Data Management
+title: Using Regular Expressions in Digital Research!
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Using Regular Expressions in Digital Research! (2019)
