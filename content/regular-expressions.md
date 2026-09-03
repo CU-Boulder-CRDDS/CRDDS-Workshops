@@ -2,7 +2,7 @@
 layout: default
 title: Using Regular Expressions in Digital Research!
 has_children: false
-nav_order: 3
+nav_order: 5
 ---
 
 # Using Regular Expressions in Digital Research! (2019)

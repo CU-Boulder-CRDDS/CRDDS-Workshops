@@ -11,9 +11,10 @@ For a full list of our learning materials, please check our [Learning Materials 
 
 If you'd like to contact us, send an email to [crdds@colorado.edu](mailto:crdds@colorado.edu). 
 
-
 ## Available Material:
 
 - [Fixing Your Files: Research Data Management for Beginners](content/data-management.html) (2026)
+- [Telling a Story with Data: Basic Principles and Best Practices](content/data-storytelling.html) (2025)
+- [Data Visualization: The Basics](content/data-viz.html) (2020)
 - [Using Regular Expressions in Digital Research!](content/regular-expressions.html) (2019)
 
