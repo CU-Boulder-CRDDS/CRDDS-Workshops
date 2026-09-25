@@ -17,7 +17,7 @@ University of Colorado Boulder Libraries\
 
 ## Workshop Description
 
-These slides introduces basic concepts, tools, and resources that will help you to store and manage your research data. 
+If you’ve ever lost a file to a hard drive crash, forgotten where you saved something, or found files you can’t even remember creating then you need to improve your skills in research data management! This session will introduce data management concepts such as documentation, data storage, backups, directories, versioning, and preservation.
 
 ## Presentation
 

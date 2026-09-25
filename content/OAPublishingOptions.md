@@ -5,7 +5,7 @@ has_children: false
 nav_order: 7
 ---
 
-# Navigating Open Access Publishing Options at CU Boulder (2026)
+# Navigating Open Access Publishing Options at CU Boulder (2025)
 
 ## Instructor
 

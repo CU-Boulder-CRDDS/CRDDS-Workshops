@@ -12,12 +12,12 @@ nav_order: 1
 Tim Dunn\
 Visualization Specialist\
 Center for Research Data & Digital Scholarship\
-Research Computing\
+Research Computing
 
 Melissa Cantrell\
 Scholarly Communication Librarian
 Center for Research Data & Digital Scholarship\
-University of Colorado Boulder Libraries\
+University of Colorado Boulder Libraries
 
 ## Workshop Description
 

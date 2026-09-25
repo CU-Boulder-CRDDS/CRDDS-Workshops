@@ -22,7 +22,7 @@ This workshop explores the use of regular expressions to find different variatio
 
 If you'd like to access the presentation slide-deck in a separate window, please click [here](material/CRDDS-RegEx.pdf).
 
-<iframe src="material/RegexSlides.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="material/CRDDS-RegEx.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 ## Additional Resource
 
