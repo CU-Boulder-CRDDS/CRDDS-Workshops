@@ -3,6 +3,7 @@ layout: default
 title: Demystifying the Submission and Peer Review Process
 has_children: false
 nav_order: 6
+---
 
 # Demystifying the Submission and Peer Review Process (2024)
 
