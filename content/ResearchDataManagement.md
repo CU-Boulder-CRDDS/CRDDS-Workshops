@@ -2,7 +2,7 @@
 layout: default
 title: Fixing Your Files - Research Data Manangement
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Fixing Your Files: Research Data Manangement (2026)
@@ -15,15 +15,15 @@ Center for Research Data & Digital Scholarship\
 University of Colorado Boulder Libraries\
 [matthew.murray-2@colorado.edu](mailto:matthew.murray-2@colorado.edu)
 
-## Introduction
+## Workshop Description
 
 These slides introduces basic concepts, tools, and resources that will help you to store and manage your research data. 
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](material/ResearchDataManagement.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](material/CRDDS-ResearchDataManagement.pdf).
 
-<iframe src="material/ResearchDataManagement.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="material/CRDDS-ResearchDataManagement.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 
 ## Additional Resource
 

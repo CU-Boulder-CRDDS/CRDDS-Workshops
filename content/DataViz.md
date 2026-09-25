@@ -2,7 +2,7 @@
 layout: default
 title: Data Visualization - The Basics
 has_children: false
-nav_order: 4
+nav_order: 1
 ---
 
 # Data Visualization: The Basics (2020)
@@ -25,7 +25,7 @@ In this workshop you will start by learning that you already know more about dat
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](material/DataViz-2020.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](material/CRDDS-DataViz.pdf).
 
-<iframe src="material/DataViz-2020.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="material/CRDDS-DataViz.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
 

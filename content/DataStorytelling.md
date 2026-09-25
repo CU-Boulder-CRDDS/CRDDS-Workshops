@@ -2,7 +2,7 @@
 layout: default
 title: Telling a Story with Data
 has_children: false
-nav_order: 3
+nav_order: 9
 ---
 
 # Telling a Story with Data: Basic Principles and Best Practices (2025)
@@ -24,6 +24,6 @@ Data visualization is the art of telling a story with data. After this workshop 
 
 ## Presentation
 
-If you'd like to access the presentation slide-deck in a separate window, please click [here](material/DataStorytelling-2025.pdf).
+If you'd like to access the presentation slide-deck in a separate window, please click [here](material/CRDDS-DataStorytelling.pdf).
 
-<iframe src="material/DataStorytelling-2025.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
+<iframe src="material/CRDDS-DataStorytelling.pdf" style="width: 800px; height: 2800px;" frameBorder="0"></iframe>
