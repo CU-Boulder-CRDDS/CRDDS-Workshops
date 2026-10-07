@@ -17,6 +17,7 @@ If you'd like to contact us, send an email to [crdds@colorado.edu](mailto:crdds@
 - [Dissertations and Theses: Common Copyright and Fair Use Questions](content/DissertationsThesesCopyright.html) (2022)
 	- [Video recording](https://www.youtube.com/watch?v=9Oz0QpDFlSM) (2023)
 - [Fixing Your Files: Research Data Management for Beginners](content/ResearchDataManagement.html) (2026)
+- [Git and GitHub](content/GitAndGitHub.html) (2025)
 - Publish, not Perish
 	- [A Common-Sense Guide to Understanding Scholarly Impact Metrics](content/UnderstandingScholarlyImpact.html) (2024)
 	- [Authors' Rights in a Rapidly Changing Scholarly Ecosystem](content/AuthorsRights.html) (2025)
