@@ -27,4 +27,4 @@ If you'd like to access the presentation slide-deck in a separate window, please
 
 ## Additional Resource
 
-[Research Computing/CRDDS - Introduction to Git and GitHub](https://github.com/ResearchComputing/intro_git_github_primer)
+[Research Computing/CRDDS - Git and GitHub In-depth](https://github.com/ResearchComputing/git_github_in_depth_short_course/blob/main/git_github_in_depth.pdf) (2026)
